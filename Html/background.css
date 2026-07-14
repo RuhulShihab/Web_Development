@@ -1,0 +1,11 @@
+h1{
+    color:white;
+    background-color:green;
+}
+body{
+    background-color: lightblue;
+    background-image: url(Image/shihab.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px 600px;
+    background-position: right top;
+}
