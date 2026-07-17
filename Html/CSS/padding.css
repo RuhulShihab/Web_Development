@@ -1,0 +1,10 @@
+.ruhul{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border: 5px solid red;
+    padding-top: 80px;
+    padding-left: 50px;
+    padding-right: 60px;
+    padding-bottom: 40px;
+}
