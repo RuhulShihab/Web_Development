@@ -1,0 +1,8 @@
+p{
+    margin:50px;
+    border: 5px solid red;
+    outline-width: 10px;
+    outline-style: dashed;
+    outline-color: green;
+    outline-offset: 10px;
+}
